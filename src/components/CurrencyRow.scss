@@ -1,0 +1,28 @@
+.input {
+  background-color: rgb(15, 19, 29);
+  width: 300px;
+  border: none;
+  color: white;
+  font: {
+    family: "Bakbak One", cursive;
+    size: 40px;
+  }
+  &::-webkit-outer-spin-button,
+  &::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+  }
+  &:focus {
+    border: none;
+    outline: none;
+  }
+}
+
+.select {
+  background-color: rgb(5, 9, 21);
+  color: white;
+  border: none;
+  font: {
+    family: "Bakbak One", cursive;
+    size: 40px;
+  }
+}
