@@ -1,3 +1,7 @@
+### `npm run build:widget`
+
+To create index.js and index.css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
